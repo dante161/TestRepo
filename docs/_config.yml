@@ -1,6 +1,8 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: 'Software Engineers Blog - CurryWurst - Summer Term 2018'
+description: 'Along with the lecture "Introduction to Software Engineering for Engineers" at Otto-von-Guericke University Magdeburg, our team "CurryWurst"
+	will develop an "Activity Monitoring" app for Android operating systems. This blog will be regularly updated to keep you up to date about our progress.
+	Have fun following our work ;)'
 url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: '/jekyll-uno'
 # google_analytics: 'UA-XXXXXX-X'
