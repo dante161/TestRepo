@@ -1,5 +1,5 @@
 name: ISEE 2018
 markdown: kramdown
-baseurl: /TestRepo
+baseurl: /TestRepo/
 permalink: /blog/:year/:month/:day/:title/
 theme: jekyll-theme-tactile
