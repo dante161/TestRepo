@@ -1,5 +1,5 @@
 # Site settings
-title: 'Software Engineers Blog - CurryWurst - Summer Term 2018'
+title: 'Software Engineers Blog - CurryWurst'
 description: 'Along with the lecture "Introduction to Software Engineering for Engineers" at Otto-von-Guericke University Magdeburg, our team "CurryWurst"
 	will develop an "Activity Monitoring" app for Android operating systems. This blog will be regularly updated to keep you up to date about our progress.
 	Have fun following our work ;)'
@@ -9,7 +9,7 @@ baseurl: '/TestRepo'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
+  name: 'CurryWurst'
   email: josh@joshgerdes.com
   twitter_username: joshgerdes
   facebook_username: joshgerdes
