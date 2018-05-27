@@ -2,4 +2,31 @@ name: ISEE 2018
 markdown: kramdown
 baseurl: /TestRepo/
 permalink: /blog/:year/:month/:day/:title/
-theme: jekyll-theme-dinky
+url: 'https://dante161.github.io/TestRepo'
+baseurl: '/TestRepo'
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
