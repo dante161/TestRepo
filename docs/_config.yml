@@ -4,7 +4,7 @@ description: 'Along with the lecture "Introduction to Software Engineering for E
 	will develop an "Activity Monitoring" app for Android operating systems. This blog will be regularly updated to keep you up to date about our progress.
 	Have fun following our work ;)'
 url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+baseurl: '/TestRepo'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
