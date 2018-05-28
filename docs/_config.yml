@@ -10,7 +10,7 @@ baseurl: '/TestRepo'
 
 author:
   name: 'CurryWurst'
-  github_username:  joshgerdes
+  github_username:  dante161/TestRepo
   
 defaults:
   -
