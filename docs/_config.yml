@@ -10,12 +10,7 @@ baseurl: '/TestRepo'
 
 author:
   name: 'CurryWurst'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
-
+  
 defaults:
   -
     scope:
@@ -27,7 +22,7 @@ defaults:
 # Build settings
 destination: _site
 paginate: 6
-permalink: /:year/:title/
+permalink: /blog/:year/:month/:day/:title/
 markdown: kramdown
 highlighter: rouge
 
